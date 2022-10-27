@@ -8,7 +8,11 @@
   </a>
   <a href="https://twitter.com/ayush_sharma408">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a></br>
+  </a>
+   <a href="https://mail.google.com/mail/u/0/#inbox">
+   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
+   </a>
+      </br>
   <img src="https://komarev.com/ghpvc/?username=ayushsharma08&style=flat-square&color=blue" alt=""/>
   
   <h1>
